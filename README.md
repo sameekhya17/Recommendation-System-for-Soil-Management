@@ -1,6 +1,8 @@
 # Recommendation-System-for-Soil-Management
 A system which recommends both crop and fertilizer to improve soil fertility.
+
 A Crop Recommendation System is developed for farmers to choose what crops to grow based on certain soil composition using different Machine Learning models. 
+
 Also a Fertilizer Recommendation System is developed which provides the steps to improve soil fertility by recommending several fertilizers.
 
 ## Built with
